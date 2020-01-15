@@ -5,7 +5,7 @@ import org.apache.spark.SparkConf
 import org.apache.spark.sql.SparkSession
 
 object Runner extends App {
-  val config = ConfigFactory.load()
+  val config = ConfigFactory.load().resolve()
   val spark = SparkSession
     .builder()
     .config(new SparkConf())

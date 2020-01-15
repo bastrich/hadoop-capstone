@@ -1,0 +1,13 @@
+geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_name,is_in_european_union
+1,en,AF,Africa,RW,Country1,0
+2,en,AF,Africa,SO,Country2,0
+3,en,AS,Asia,YE,Country3,0
+4,en,AS,Asia,IQ,Country4,0
+5,en,AS,Asia,SA,Country5,0
+6,en,AS,Asia,SA,Country6,0
+7,en,AS,Asia,SA,Country7,0
+8,en,AS,Asia,SA,Country8,0
+9,en,AS,Asia,SA,Country9,0
+10,en,AS,Asia,SA,Country10,0
+11,en,AS,Asia,SA,Country11,0
+12,en,AS,Asia,SA,Country12,0
